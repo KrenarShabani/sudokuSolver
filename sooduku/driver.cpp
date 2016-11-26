@@ -12,7 +12,8 @@ void printn(sudoku nums[][9]);
 //int count = 0;
 int main()
 {
-	ifstream input("INSERT INPUT TXT HERE");
+	//ifstream input("C:\Users\krenar1\Documents\GitHub\sudokugui\sudokuSolver\input.txt");
+	ifstream input("INPUT TXT HERE");
 	static const int empty = 0;
 	sudoku sud[9][9];
 	Read(input, sud);
