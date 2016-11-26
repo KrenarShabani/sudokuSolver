@@ -1,6 +1,12 @@
+The the core program is wriiten in C++ which does the main tast of solving the Sudoku Puzzle
+There is a C++/CLR class implemented as a wrapper to the C++ class so it can interact with the C# GUI
+
+
+
+
+
 version 2.0.0
 - added a very basic GUI system. prone to errors i assume. just follow the the Example txt file i left in the repo
-
 
 
 
