@@ -1,4 +1,4 @@
-The the core program is wriiten in C++ which does the main tast of solving the Sudoku Puzzle
+The the core program is wriiten in C++ which does the main task of solving the Sudoku Puzzle
 There is a C++/CLR class implemented as a wrapper to the C++ class so it can interact with the C# GUI
 
 
